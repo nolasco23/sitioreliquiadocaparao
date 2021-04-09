@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="78.298035mm"
+   height="12.20243mm"
+   viewBox="0 0 78.298037 12.202427"
+   version="1.1"
+   id="svg3267"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   sodipodi:docname="RC.svg">
+  <defs
+     id="defs3261">
+    <marker
+       style="overflow:visible"
+       id="marker3249"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="EmptyDiamondLstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,5.6,0)"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path3247" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3239"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotL"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path3237" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3229"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="EmptyDiamondLstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,5.6,0)"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path3227" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker26622"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="EmptyDiamondLstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,5.6,0)"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path26620" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="139.30036"
+     inkscape:cx="165.71914"
+     inkscape:cy="19.348992"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g15551"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="999"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3264">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-918.32147,1506.6796)">
+    <g
+       id="g15551"
+       transform="matrix(0.03408379,0,0,0.02697161,640.06791,-1467.479)"
+       style="stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none">
+      <g
+         id="g1972"
+         transform="translate(-291.95776,-3.7421026e-5)"
+         style="stroke:#f9f9f9">
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 10606.575,-1211.242 c -3.169,-6.9553 -3.032,-15.6134 0.349,-22.0192 1.51,-2.8599 8.508,-10.8319 15.554,-17.7157 12.958,-12.6615 20.213,-23.6524 20.213,-30.6184 0,-7.2091 3.511,-5.9769 4.805,1.6871 1.984,11.7415 -2.045,20.5474 -16.28,35.5881 -15.724,16.6126 -19.668,22.4776 -21.12,31.4093 l -1.126,6.9262 z"
+           id="path24271"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 10591.165,-1206.6795 c -20.523,-12.5135 -16.754,-34.1676 11.205,-64.3522 6.95,-7.5033 14.099,-15.7847 15.888,-18.4029 3.996,-5.8506 4.214,-19.0553 0.459,-28.0348 -3.796,-9.0824 -0.415,-8.413 6.629,1.3136 11.836,16.3395 6.992,33.0512 -17.776,61.3275 -7.885,9.0023 -15.34,18.2602 -16.567,20.573 -3.837,7.2349 -2.688,17.9379 2.682,24.9768 5.75,7.5403 5.688,7.6051 -2.524,2.599 z"
+           id="path24273"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#803300;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 10612.812,-1150.6346 c -41.899,-10.6281 -61.611,-10.9434 -89.782,-1.4374 l -19.927,6.7249 1.356,-6.7777 c 3.965,-19.824 34.129,-39.436 71.974,-46.7969 20.593,-4.0044 63.644,-2.7084 82.209,2.4769 33,9.2163 56.406,25.8468 62.061,44.0944 1.311,4.2318 0.09,4.9271 -12.92,7.3236 -7.904,1.4562 -25.408,2.5905 -38.897,2.5207 -20.401,-0.1008 -29.835,-1.4725 -56.074,-8.1285 z"
+           id="path24275"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#803300;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 10575.631,-1086.8571 c -35.772,-8.3889 -59.693,-22.279 -68.845,-39.9775 -3.122,-6.0358 -3.013,-6.2631 4.09,-8.5602 31.089,-10.0545 55.501,-11.515 79.821,-4.7762 41.142,11.4015 80.132,14.1481 112.614,7.9318 9.714,-1.8585 17.936,-3.3793 18.27,-3.3793 0.332,0 -1.395,3.928 -3.844,8.7292 -7.846,15.3803 -27.566,28.2369 -56.464,36.8131 -18.849,5.5946 -67.686,7.4297 -85.642,3.2191 z"
+           id="path24277"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 8605.2808,-1154.1732 -11.7515,-10.3394 h 37.932 c 37.6678,0 37.9322,0.08 37.9322,10.4719 0,10.067 -1.0134,10.4666 -26.1806,10.3393 -21.7572,-0.1104 -28.1642,-1.8786 -37.9321,-10.4718 z"
+           id="path24279"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 9821.2952,-1135.2055 c -3.4562,-2.2255 -11.8437,-4.0752 -18.64,-4.1106 -13.6895,-0.079 -11.4747,-4.2671 7.3901,-14.0004 20.7201,-10.6923 34.989,-1.1985 22.7688,15.152 -3.7348,4.9967 -7.0371,5.8455 -11.5189,2.959 z"
+           id="path24281"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 10298.811,-1091.2095 c 0,-8.1349 2.149,-10.4722 9.633,-10.4722 12.836,0 19.688,-7.5286 19.688,-21.6338 0,-14.7035 -12.707,-21.9415 -33.021,-18.8111 -18.181,2.8015 -36.436,-7.2598 -25.601,-14.1097 12.565,-7.9434 47.754,-6.388 61.95,2.7381 14.148,9.095 19.214,25.577 13.626,44.3348 -5.362,18.0033 -18.064,28.4255 -34.641,28.4255 -9.618,0 -11.634,-1.8152 -11.634,-10.4716 z"
+           id="path24283"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 8497.6556,-1091.2095 c 0,-8.1349 2.1497,-10.4722 9.6333,-10.4722 12.8362,0 19.6863,-7.5286 19.6863,-21.6338 0,-14.3173 -12.529,-21.9208 -30.8094,-18.6974 -7.5185,1.3267 -17.5175,-0.08 -23.2991,-3.2819 l -10.1275,-5.6044 9.4577,-5.0614 c 25.2592,-13.5191 64.8187,-1.8133 73.1826,21.656 8.3003,23.2874 -11.4669,53.5667 -34.9686,53.5667 -10.8145,0 -12.7553,-1.5942 -12.7553,-10.4716 z"
+           id="path24285"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 10054.816,-1071.0591 c -4.44,-1.1606 -7.33,-5.9219 -7.33,-12.0804 0,-8.3783 2.095,-10.1646 11.917,-10.1646 13.722,0 25.781,-11.3087 25.781,-24.1776 0,-11.296 -14.962,-21.8477 -31.3,-22.074 -6.974,-0.095 -19.278,-3.7009 -27.341,-8.0096 l -14.661,-7.8338 12.567,-2.7147 c 6.91,-1.4928 15.816,-3.3552 19.792,-4.1374 3.975,-0.7823 14.845,0.5112 24.157,2.8741 45.08,11.4426 51.761,67.9539 10.091,85.3648 -7.689,3.2124 -14.511,5.6219 -15.16,5.3545 -0.649,-0.2673 -4.48,-1.3471 -8.513,-2.4013 z"
+           id="path24287"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 8702.9021,-1095.3986 c 0,-50.4796 1.2192,-64.9252 5.446,-64.9252 12.8821,0 15.499,10.2581 15.499,60.7847 0,45.2646 -0.918,51.7194 -8.541,59.8988 -4.6971,5.0419 -9.41,9.1672 -10.4725,9.1672 -1.0606,0 -1.9315,-29.2163 -1.9315,-64.9255 z"
+           id="path24289"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 8585.6182,-1093.5894 v -63.1161 l 12.567,8.9479 c 10.7257,7.6377 12.5652,11.6661 12.5652,27.5119 v 18.564 h 29.3215 c 28.4839,0 29.3216,0.2994 29.3216,10.4722 0,10.1725 -0.8392,10.4716 -29.3216,10.4716 h -29.3215 v 16.755 c 0,16.2656 -10.778,33.5098 -20.9432,33.5098 -2.6075,0 -4.189,-23.8311 -4.189,-63.1163 z"
+           id="path24291"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 9806.4689,-1032.4088 -15.4988,-9.3538 20.1343,-2.7597 c 14.1659,-1.9415 21.1255,-1.2001 23.4764,2.5034 10.7179,16.8837 -6.377,22.7277 -28.1119,9.6101 z"
+           id="path24293"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 9590.5613,-1031.4701 -14.3069,-8.8719 12.5657,-2.7155 c 37.0691,-8.0105 54.0402,-39.5884 37.9747,-70.656 -8.3224,-16.095 -17.0015,-22.4228 -35.0522,-25.5568 l -15.4882,-2.6895 14.1599,-8.8405 c 16.3887,-10.2315 22.623,-8.9165 41.4213,8.7375 33.6701,31.6198 25.3223,92.4252 -15.5941,113.5832 -10.2413,5.2968 -12.7933,4.9998 -25.6802,-2.9905 z"
+           id="path24295"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 9435.9309,-1031.1202 c 0,-6.2369 3.4687,-11.4712 9.3216,-14.0674 12.8757,-5.711 28.3779,-30.1197 28.3779,-44.6819 0,-22.0516 -10.8143,-40.4988 -28.0421,-47.838 -39.4601,-16.8084 -44.4009,-19.9628 -36.2114,-23.1176 11.0233,-4.2457 38.6127,0.3754 56.8666,9.5239 51.4361,25.7814 38.4545,113.7712 -18.7937,127.376 -10.0971,2.3999 -11.5189,1.5119 -11.5189,-7.195 z"
+           id="path24297"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 10378.397,-1020.0544 c 0,-9.3466 39.314,-131.0661 43.785,-135.5573 3.152,-3.1675 10.779,-5.7596 16.95,-5.7596 19.229,0 18.841,-0.8929 59.245,136.4271 1.901,6.4617 0.159,7.4196 -11.746,6.2833 -12.749,-1.2221 -14.319,-2.9173 -17.725,-19.1426 -3.682,-17.5403 -3.997,-17.8021 -21.41,-17.8021 -16.593,0 -17.551,-0.6398 -15.671,-10.4719 1.595,-8.3518 4.504,-10.4719 14.362,-10.4719 9.771,0 11.924,-1.5356 10.281,-7.3303 -8.538,-30.0983 -16.968,-55.1692 -18.152,-53.985 -1.267,1.2585 -8.953,27.4043 -28.828,97.9667 -5.691,20.2066 -7.203,21.9909 -18.643,21.9909 -6.847,0 -12.448,-0.9659 -12.448,-2.1473 z"
+           id="path24299"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 10335.063,-1025.5672 c -3.812,-4.2132 -6.931,-11.63 -6.931,-16.4824 0,-4.852 -1.8,-13.5569 -4.001,-19.344 -3.393,-8.9243 -2.647,-10.9517 4.916,-13.3521 11.3,-3.5865 20.028,7.4353 20.028,25.2918 0,7.1103 2.934,17.1172 6.521,22.2373 6.195,8.846 6.019,9.3095 -3.54,9.3095 -5.533,0 -13.18,-3.4469 -16.993,-7.6601 z"
+           id="path24301"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 10256.924,-1081.2491 v -63.3419 l 9.424,6.2504 c 8.901,5.9025 9.489,9.4261 10.59,63.3419 l 1.171,57.0916 h -10.59 -10.591 z"
+           id="path24303"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 10110.317,-1022.3786 c 0,-6.3632 33.719,-117.631 38.283,-126.3304 6.352,-12.105 18.529,-16.4582 30.624,-10.9472 8.905,4.0573 12.932,12.124 23.535,47.1425 13.72,45.3069 24.871,80.908 27.995,89.3709 1.314,3.553 -2.732,5.2357 -12.581,5.2357 -13.696,0 -14.723,-1.0021 -18.25,-17.802 -3.639,-17.3328 -4.215,-17.8366 -21.887,-19.1073 -14.225,-1.0226 -17.624,-2.6829 -15.708,-7.6728 1.345,-3.5021 2.442,-8.0987 2.442,-10.214 0,-2.1154 4.713,-3.8462 10.473,-3.8462 6.562,0 10.471,-2.3693 10.471,-6.3462 0,-12.258 -14.036,-56.6849 -16.892,-53.4613 -1.587,1.7927 -10.001,29.1774 -18.699,60.8547 -15.624,56.9148 -15.953,57.5951 -27.809,57.5951 -6.597,0 -11.997,-2.0122 -11.997,-4.4715 z"
+           id="path24305"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 10005.6,-1080.7382 c 0,-34.5569 0.855,-62.831 1.896,-62.831 1.045,0 6.699,2.1877 12.566,4.8612 l 10.67,4.8612 v 57.97 57.9697 h -12.567 -12.565 z"
+           id="path24307"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 9869.4368,-1050.3697 c 5.3702,-17.8543 14.6045,-48.6365 20.5224,-68.4046 8.9384,-29.8627 12.67,-36.8133 22.0657,-41.0941 21.4027,-9.7513 29.2914,1.8647 51.6486,76.0471 l 19.8653,65.9142 h -13.6057 c -12.6285,0 -13.9444,-1.3521 -18.3501,-18.8491 -4.6497,-18.461 -5.0962,-18.8494 -21.7333,-18.8494 -15.2189,0 -16.8463,-0.9799 -15.6463,-9.4247 0.9657,-6.7481 4.6087,-9.801 12.8568,-10.7501 6.3357,-0.7297 11.519,-3.2664 11.519,-5.6382 0,-6.9259 -13.2257,-51.3862 -16.2763,-54.7158 -1.5357,-1.6704 -10.2082,24.2473 -19.2842,57.5951 l -16.5012,60.6322 h -13.4236 -13.4219 z"
+           id="path24309"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 9783.3914,-1023.4649 c -31.9557,-10.5644 -50.0194,-34.6982 -50.0446,-66.8645 0,-37.2915 22.7543,-65.0879 58.6267,-71.5276 l 14.66,-2.6316 -13.4693,8.6859 c -42.2098,27.2184 -44.7094,87.2048 -5.1231,122.9687 17.9071,16.1783 17.6315,16.7346 -4.6497,9.3691 z"
+           id="path24311"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 9567.8764,-1024.1979 c -67.9247,-24.0154 -58.9024,-122.9028 12.5655,-137.7333 l 12.567,-2.6077 -11.3781,6.3561 c -6.2566,3.4957 -16.2874,14.7357 -22.2891,24.9772 -20.0471,34.2071 -11.6456,84.361 17.8105,106.3317 13.751,10.2564 12.8772,10.5085 -9.2758,2.676 z"
+           id="path24313"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 9393.316,-1050.3691 c -0.7443,-17.8545 -0.4276,-48.1956 0.7282,-67.4251 l 2.0943,-34.9621 11.519,9.0867 11.5189,9.0867 v 58.3382 58.3382 h -12.247 -12.2474 z"
+           id="path24315"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 9195.051,-1050.3691 c 5.37,-17.8545 14.6042,-48.6364 20.5221,-68.4047 8.9384,-29.8625 12.67,-36.8131 22.0658,-41.0942 21.4012,-9.7508 29.29,1.8649 51.6486,76.0475 l 19.8653,65.914 h -13.6055 c -12.6288,0 -13.946,-1.3521 -18.3503,-18.8492 -4.6495,-18.4609 -5.0977,-18.8494 -21.7334,-18.8494 -15.2186,0 -16.8461,-0.98 -15.6478,-9.4245 0.9657,-6.748 4.6101,-9.8012 12.8582,-10.7502 6.3358,-0.7298 11.5189,-3.2662 11.5189,-5.6383 0,-6.9256 -13.2254,-51.3865 -16.2761,-54.7159 -1.5356,-1.6702 -10.2082,24.2475 -19.2842,57.5951 l -16.5012,60.6324 h -13.4234 -13.4219 z"
+           id="path24317"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 9139.4777,-1087.7705 1.14,-69.8639 11.519,-3.0765 11.5188,-3.0767 v 72.9406 72.9405 h -12.6681 -12.667 z"
+           id="path24319"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 9034.205,-1023.5455 c -26.8896,-9.1081 -31.631,-21.2119 -33.1795,-84.7089 -0.7599,-30.9418 -0.38,-56.2577 0.855,-56.2577 1.219,0 7.0228,2.1874 12.8899,4.8611 10.4663,4.7685 10.6688,5.7156 10.6688,49.6998 0,39.0199 1.124,46.2713 8.6819,55.8756 4.9885,6.3411 12.879,11.0368 18.5449,11.0368 5.6677,0 13.5582,-4.6957 18.5465,-11.0368 7.5754,-9.6309 8.6803,-16.8466 8.6803,-56.6516 0,-45.1105 0.1593,-45.66 10.745,-49.6999 5.9099,-2.2467 11.565,-4.085 12.5669,-4.085 0.9974,0 1.8206,22.6796 1.8206,50.3993 0,55.0451 -4.9551,74.4883 -21.64,84.8985 -14.4111,8.991 -33.0304,11.1376 -49.1755,5.6688 z"
+           id="path24321"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 8795.0554,-1084.4132 c 0,-69.91 0.6174,-72.287 19.8953,-77.0074 l 9.4261,-2.3072 v 72.9108 72.9105 h -14.6614 -14.66 z"
+           id="path24323"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 8721.7527,-1030.4726 c 9.7333,-10.1593 15.4988,-12.5662 30.1035,-12.5662 17.2815,0 18.0669,0.5462 18.0669,12.5662 v 12.5661 h -30.1052 -30.1051 z"
+           id="path24325"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 8605.7986,-1028.3782 c 10.2996,-8.6679 16.8509,-10.4719 38.0191,-10.4719 24.4881,0 25.5758,0.445 25.5758,10.4719 0,10.4007 -0.2535,10.4717 -38.0211,10.4717 h -38.0189 z"
+           id="path24327"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 8533.4963,-1027.2162 c -3.5859,-5.1201 -6.5211,-13.7264 -6.5211,-19.1248 0,-5.3983 -1.716,-13.0239 -3.8153,-16.9456 -2.9428,-5.4983 -1.4882,-8.2276 6.3344,-11.9207 8.5647,-4.0422 10.7952,-3.5828 14.2878,2.9418 2.2749,4.2526 4.1381,12.6618 4.1381,18.6871 0,6.0255 2.8752,16.5166 6.3896,23.3132 6.2439,12.0739 6.1537,12.3583 -3.9515,12.3583 -5.9383,0 -13.1179,-3.9638 -16.862,-9.3093 z"
+           id="path24329"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 8455.767,-1081.2487 v -63.3419 l 9.4246,6.2504 c 8.9004,5.9026 9.4894,9.426 10.5912,63.3417 l 1.1716,57.0916 h -10.5913 -10.5895 z"
+           id="path24331"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 8928.3893,-1009.1848 c -5.617,-4.418 -17.3149,-9.3656 -25.9967,-10.9941 -18.5102,-3.4727 -37.8754,-18.5538 -47.3503,-36.8745 -8.6979,-16.8219 -8.6249,-51.6338 0.1573,-68.5948 8.063,-15.5915 29.2614,-32.4273 45.7387,-36.3264 11.408,-2.6996 11.3211,-2.4467 -4.686,13.561 -37.5967,37.5958 -28.6805,105.3743 13.8619,105.3743 33.7082,0 54.9224,-42.3642 37.7975,-75.4808 -7.436,-14.3793 -17.9229,-20.8093 -34.2386,-20.9922 l -11.7943,-0.1268 11.7532,-10.3396 c 14.6298,-12.871 16.0435,-12.8434 32.057,0.6317 33.77,28.4154 37.2087,75.127 7.979,108.4172 l -12.7837,14.5594 11.1388,4.2349 c 6.1252,2.3288 12.9661,4.2343 15.2015,4.2343 2.4854,0 2.3223,3.2538 -0.4117,8.3779 -5.7976,10.83224 -24.8537,11.00313 -38.4038,0.3434 z"
+           id="path24333"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           id="path24337"
+           d="m 8835.9865,-1185.9015 c -16.3274,19.3455 -17.3542,19.6054 -33.1891,8.4772 l -7.7421,-5.4409 17.0281,-20.1758 17.0283,-20.1755 11.2041,9.4561 11.2033,9.4554 z"
+           style="opacity:0.991229;fill:#333333;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+        <path
+           id="path24339"
+           style="opacity:0.991229;fill:#252525;fill-opacity:1;stroke:#f9f9f9;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 10498.959,-1078.1352 c -2.104,-2.5906 -3.528,-20.5583 -2.872,-36.2291 l 0.399,-9.5207 7.481,11.2942 c 8.336,12.5853 20.01,22.638 36.423,31.3646 l 10.955,5.8257 -25.208,-0.1539 c -13.864,-0.083 -26.095,-1.2459 -27.179,-2.5814 z m 167.385,2.4752 c -7.786,-2.1906 -35.099,11.9951 24.578,-16.4344 9.779,-4.6587 27.086,-21.6619 31.828,-30.1346 1.832,-3.273 3.458,-3.523 10.42,-1.6005 12.794,3.5326 19.819,13.4881 19.819,28.0856 v 12.0582 l -7.331,-0.5611 c -3.539,-0.2702 -7.314,4.9769 -8.242,4.377 -0.399,-0.2584 -3.018,1.3094 -0.926,-2.0637 4.47,-7.2094 2.273,-7.1393 2.555,-9.8912 0.395,-3.8593 -0.402,-9.1107 -1.771,-11.6703 -3.428,-6.4048 -7.025,-5.6345 -9.1,0.7043 -1.1,3.3614 -1.098,7.1047 -1.314,11.9311 l -0.538,11.981 -23.149,-5.4949 c -12.304,-0.052 -23.358,2.4111 -23.921,2.6753 z m -81.04,71.8435 c -33.459,-7.2718 -63.461,-29.1809 -77.847,-56.8484 -4.409,-8.4792 -7.429,-14.0654 -8.683,-17.6765 -5.004,-14.4134 3.017,-6.7374 21.078,-6.5245 5.748,0.067 5.273,-5.16 12.527,-0.9477 0.848,0.4918 2.438,0.9936 4.005,1.6817 28.176,8.5299 56.532,10.4655 75.3,10.4799 28.455,0 35.651,-0.4709 46.948,-3.6634 1.885,-0.5328 4.974,-1.103 7.132,-1.8006 13.979,-8.2107 50.113,-19.5405 60.32,-1.9188 0.109,0.2307 0.368,-1.3443 0.277,0.5823 -0.121,2.5431 3.42,3.9692 9.535,-0.6746 6.959,-11.0752 10.45,-4.4449 16.702,-2.9848 0.664,0.1518 0.101,2.3514 -1.255,4.8799 -2.499,4.6685 -16.736,12.2284 -26.991,14.3309 -3.501,0.7156 -7.287,4.2267 -9.999,9.2662 -6.551,12.1689 -32.382,35.3523 -47.214,42.3746 -25.324,11.9907 -54.507,15.3448 -81.835,9.4065 z"
+           sodipodi:nodetypes="sscssccsscsssscssssssscccccssssccsccsccccsscc"
+           inkscape:export-filename="/home/minerva/path6286.png"
+           inkscape:export-xdpi="120.09072"
+           inkscape:export-ydpi="120.09072" />
+      </g>
+      <g
+         id="g3327"
+         transform="matrix(29.339461,0,0,37.076022,-18654.893,54413.199)">
+        <g
+           aria-label="Sitio Relíquia do Caparaó - Divino de São Lourenço -  Patrimônio da Penha - ES - Produtor: José Isidoro Adão -  Contato: (28) 99996-6478 - Instagram: @sitioreliquiadocaparao  Altitude: 1000 metros - Validade: 12 meses  Data da Torra:             /          /"
+           id="text3144"
+           style="font-style:normal;font-weight:normal;font-size:105.833px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:0.991229;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.598255"
+           transform="matrix(0.02562345,0,0,0.02562345,813.50104,-1475.356)"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:253.066px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke:#ffffff;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none;fill:#333333;fill-opacity:0.99215686;"
+         x="10194.396"
+         y="-1106.3926"
+         id="text1936"
+         transform="scale(0.88956868,1.1241403)"><tspan
+           sodipodi:role="line"
+           id="tspan1934"
+           x="10194.396"
+           y="-1106.3926"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:253.066px;font-family:C059;-inkscape-font-specification:C059;stroke:#ffffff;stroke-width:9.8945;stroke-miterlimit:4;stroke-dasharray:none;fill:#333333;fill-opacity:0.99215686;">Sítio</tspan></text>
+    </g>
+  </g>
+</svg>
